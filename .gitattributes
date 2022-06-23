@@ -1,0 +1,3 @@
+*.exe linguist-language=python
+*.dll linguist-language=C++
+*.png linguist-language=python
